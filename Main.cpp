@@ -13,7 +13,7 @@
 #include <wx-3.1/wx/stattext.h>
 #include <wx-3.1/wx/textctrl.h>
 
-#include "Views/NewAdmission.cpp"
+#include "NewAdmission.cpp"
 
 #ifndef WX_PRECOMP
     #include <wx/wx.h>
